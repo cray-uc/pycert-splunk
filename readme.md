@@ -1,4 +1,4 @@
-# API Data Retrieval and Splunk Integration
+# CRT.SH API Data Retrieval and Splunk Integration
 
 This Python script is designed to retrieve data from an crt.sh in JSON format, filter the certificate data based on a specific condition (entries within the last 30 days), and send the filtered data to Splunk using the HTTP Event Collector (HEC).
 
