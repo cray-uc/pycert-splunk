@@ -1,4 +1,3 @@
-```
 # API Data Retrieval and Splunk Integration
 
 This Python script is designed to retrieve data from an API in JSON format, filter the data based on a specific condition (entries within the last 30 days), and send the filtered data to Splunk using the HTTP Event Collector (HEC).
@@ -23,9 +22,7 @@ Before running the script, make sure you have the following:
 2. Open a terminal or command prompt and navigate to the directory where the script is saved.
 3. Run the script by executing the following command:
 
-```
 python api_data_retrieval.py
-```
 
 The script will perform the following actions:
 
@@ -55,6 +52,3 @@ This script relies on the following Python libraries:
 ## License
 
 This script is provided under the [MIT License](https://opensource.org/licenses/MIT).
-```
-
-This README file provides an overview of the script, its prerequisites, configuration steps, usage instructions, troubleshooting tips, dependencies, and licensing information. You can include this file in the same directory as the script to help others understand and use the script effectively.
